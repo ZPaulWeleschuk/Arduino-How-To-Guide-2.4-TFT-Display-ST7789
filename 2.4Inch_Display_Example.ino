@@ -2,7 +2,7 @@
 #include <Adafruit_ST7789.h>  // Hardware-specific library for ST7789
 #include <SPI.h>
 
-//2.4 inche TFT display example code
+//2.4 inch TFT display example code
 
 //The code is forked from the ‘graphicstest’ example code that comes 
 //with the Adafruit ST7735 library. However that code does not 
