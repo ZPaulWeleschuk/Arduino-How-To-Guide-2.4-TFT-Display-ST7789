@@ -1,5 +1,5 @@
 # 2.4 Inch TFT LCD Display (ST7789) – Arduino How To Guide 
-The purpose of the guide is to help beginner Arduino hobbyist get their 2.4” TFT LCD displays working. When the display I purchased arrived it took me longer than I would like to admit to get it up and running. The reason for this (other than my lack of knowledge) was the lack of documentation/guides available for this particular display. This guide is also intended to introduce some of the background concepts behind what we are doing.
+The purpose of this guide is to help beginner Arduino hobbyists get their 2.4” TFT LCD displays working. When the display I purchased arrived it took me longer than I would like to admit to get it up and running. The reason for this (other than my lack of knowledge) was the lack of documentation/guides available for this particular display. This guide is also intended to introduce some of the background concepts behind what we are doing.
 This guide will not be covering the touch functionality mainly because the display that arrived in the mail didn’t come with the touch chip.
 
 
